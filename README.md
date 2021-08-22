@@ -1,1 +1,31 @@
 # InformeTarea7
+
+Integrantes:César Garnica  -  Jonathan Insuasti -  Melany Villa 
+
+# 1. Objetivos
+-Objetivo General
+     
+Analizar los distintos temas de los capítulos 13 y 14 que nos permitirán identificar las diferentes funcionalidades que tiene la inductancia y los inductores junto  a los transiistorios inductivos  mediante la realización de ejercicios para poder reforzar el conocimiento adquirido y ponerlo en práctica en la realización de circuitos eléctricos. 
+            
+ -Objetivos Específicos   
+  
+     
+     
+# 2. Marco Teórico
+
+
+
+# 3. Explicación y Resolución
+
+
+
+
+# 4. Video
+
+
+# 5. Conclusiones
+
+-
+# 6.Bibliografia 
+
+Robbins, A. H. (2008). Análisis de Circuitos Teoria y Practica. Santa Fe-Mexico: Cengage Learning.
