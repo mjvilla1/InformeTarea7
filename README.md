@@ -17,7 +17,10 @@ Analizar los distintos temas de los capítulos 13 y 14 que nos permitirán ident
 
 # 3. Explicación y Resolución
 
+13. La figura 13-34 muestra la corriente en una bobina. Si el voltaje de 0 a 2 ms
+es de 100 volts, ¿qué valor tiene L?
 
+!](https://github.com/mjvilla1/ImagenesInforme7/blob/main/Ejercicio%2013.13.PNG)
 
 
 # 4. Video
