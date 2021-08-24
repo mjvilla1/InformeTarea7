@@ -19,6 +19,8 @@ Analizar los distintos temas de los capítulos 13 y 14 que nos permitirán ident
 
 # 3. Explicación y Resolución
 
+## Capitulo 13
+
 13-2 Voltaje inducido e inducción
 
 1.- Si el flujo que enlaza una bobina de 75 vueltas (figura 13-29) cambia a la tasa de 3 Wb/s, ¿cuál es el voltaje en la bobina?
@@ -78,6 +80,20 @@ serie?
 μH, y una inductancia de 10 μH está conectada en paralelo con la combinación en serie. ¿Qué valor tiene LT?
 
 ![](https://github.com/mjvilla1/ImagenesInforme7/blob/main/Ejercicio%2013.23.PNG)
+
+## Capitulo 14
+
+11. Para el circuito de la figura 14-1(b), el voltaje en la inductancia en el instante
+en que el interruptor se cierra es 80 V, la corriente final de estado estable es
+4 A, y el transitorio dura 0.5 s. Determine E, R y L.
+
+![](https://github.com/mjvilla1/ImagenesInforme7/blob/main/Ejercicio%2014.11.PNG)
+![](https://github.com/mjvilla1/ImagenesInforme7/blob/main/Ejercicio%2014.11.1.PNG)
+
+13. Para la figura 14-1(b), si vL  40e^-2000t V y la corriente de estado estable es
+10 mA, ¿cuáles son los valores de E, R y L?
+
+![](https://github.com/mjvilla1/ImagenesInforme7/blob/main/Ejercicio%2014.13.PNG)
 
 # 4. Video
 
