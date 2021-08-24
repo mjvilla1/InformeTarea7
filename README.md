@@ -23,9 +23,13 @@ es de 100 volts, ¿qué valor tiene L?
 ![](https://github.com/mjvilla1/ImagenesInforme7/blob/main/Ejercicio%2013.13.PNG)
 
 15. La figura 13-36 muestra la gráfica del voltaje en una inductancia. Los cambios en la corriente de 4 a 5 A durante el intervalo de tiempo de 4 a 5 s.
+
 a. ¿Qué valor tiene L?
+
 b. Determine la forma de onda de la corriente y grafíquela.
+
 c. ¿Cuál es la corriente en t  10 s?
+
 
 # 4. Video
 
