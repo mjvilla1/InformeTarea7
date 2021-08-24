@@ -17,6 +17,32 @@ Analizar los distintos temas de los capítulos 13 y 14 que nos permitirán ident
 
 # 3. Explicación y Resolución
 
+13-2 Voltaje inducido e inducción
+
+1.- Si el flujo que enlaza una bobina de 75 vueltas (figura 13-29) cambia a la tasa de 3 Wb/s, ¿cuál es el voltaje en la bobina?
+
+![](https://github.com/mjvilla1/ImagenesInforme7/blob/main/EJERCICIO%2013.1.PNG)
+
+3.- El flujo que cambia a una tasa uniforme por 1 ms induce 60 V en una bobina. ¿Cuál es el voltaje inducido si el mismo cambio de flujo ocurre en 0.01 s?
+
+![](https://github.com/mjvilla1/ImagenesInforme7/blob/main/Ejercicio%2013.3.PNG)
+
+5.-La corriente en un inductor de 75 mH (figura 13-30) cambia uniformemente por 200uA en 0.1 ms. ¿Cuál es el voltaje en él?
+
+![](https://github.com/mjvilla1/ImagenesInforme7/blob/main/Ejercicio%2013.5.PNG)
+
+7.-El voltaje inducido cuando la corriente cambia de forma uniforme de 3 a 5 amperes en un inductor de 10 H es de 180 volts. ¿Cuánto tiempo pasará para que la corriente cambie de 3 a 5 amperes?
+
+![](https://github.com/mjvilla1/ImagenesInforme7/blob/main/Ejercicio%2013.7.PNG)
+
+9.-Calcule la inductancia de la bobina de núcleo de aire de la figura 13-31, si l=200cm N=200 vueltas y d=2cm.
+
+![](https://github.com/mjvilla1/ImagenesInforme7/blob/main/Ejercicio%2013.9.PNG)
+
+11.-El inductor de núcleo de hierro de la figura 13-32 tiene un núcleo de alta permeabilidad. Por ello, por medio de la ley de Ampere.Debido a que el espacio de aire predomina, no ocurre la saturación y el flujo del núcleo es proporcional a la corriente, es decir, el enlace de flujo es igual a LI. Adicionalmente, ya que todo el flujo pasa a través de la bobina,el enlace de flujo es igual a Nø. Al igualar los dos valores del enlace de flujo y con las ideas del capítulo 12, demuestre que la inductancia de la bobina es:
+
+![](https://github.com/mjvilla1/ImagenesInforme7/blob/main/Ejercicio%2013.11.PNG)
+
 13. La figura 13-34 muestra la corriente en una bobina. Si el voltaje de 0 a 2 ms
 es de 100 volts, ¿qué valor tiene L?
 
