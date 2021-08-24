@@ -100,21 +100,10 @@ en que el interruptor se cierra es 80 V, la corriente final de estado estable es
 
 ![](https://github.com/mjvilla1/ImagenesInforme7/blob/main/Ejercicio%2014.13.PNG)
 
-Para la figura 14-43, R1  20 Ω, R2  230 Ω y L  0.5 H y la corriente del 
-inductor ha alcanzado un valor estable de 5 A con el interruptor cerrado. En
-t  0 s, el interruptor se abre.
-
-a. ¿Cuál es la constante de tiempo en la fase de disminución?
-
-b. Determine las ecuaciones para iL y vL.
-
-c. Calcule los valores para iL y vL a intervalos de una constante de tiempo
-desde t  0 hasta 5 t.
-
-d. Grafique iL y vL. Marque el eje en t y en segundos.
-
 17. Dado vL = -2700 Ve^-100t. Use la curva universal de la constante de tiempo
 para determinar vL en t  20 ms.
+
+![](https://github.com/mjvilla1/ImagenesInforme7/blob/main/Ejercicio%2014.17.PNG)
 
 
 # 4. Video
