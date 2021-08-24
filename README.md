@@ -66,6 +66,11 @@ serie?
 
 19. Repita el problema 17 si las inductancias están conectadas en paralelo.
 
+![](https://github.com/mjvilla1/ImagenesInforme7/blob/main/Ejercicio%2013.19.PNG)
+
+21. Determine LT para los circuitos de la figura 13-37.
+
+
 # 4. Video
 
 
