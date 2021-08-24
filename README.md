@@ -30,6 +30,8 @@ b. Determine la forma de onda de la corriente y grafíquela.
 
 c. ¿Cuál es la corriente en t  10 s?
 
+![](https://github.com/mjvilla1/ImagenesInforme7/blob/main/Ejercicio%2013.15.1.PNG)
+![](https://github.com/mjvilla1/ImagenesInforme7/blob/main/Ejercicio%2013.15.2.PNG)
 
 # 4. Video
 
