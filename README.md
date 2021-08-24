@@ -70,6 +70,10 @@ serie?
 
 21. Determine LT para los circuitos de la figura 13-37.
 
+![](https://github.com/mjvilla1/ImagenesInforme7/blob/main/Ejercicio%2013.21.PNG)
+
+23. Una inductancia de 30 μH está conectada en serie con una inductancia de 60
+μH, y una inductancia de 10 μH está conectada en paralelo con la combinación en serie. ¿Qué valor tiene LT?
 
 # 4. Video
 
