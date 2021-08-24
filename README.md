@@ -3,14 +3,15 @@
 Integrantes:César Garnica  -  Jonathan Insuasti -  Melany Villa 
 
 # 1. Objetivos
-- Objetivo General
+    - Objetivo General
      
-Analizar los distintos temas de los capítulos 13 y 14 que nos permitirán identificar las diferentes funcionalidades que tiene la inductancia y los inductores junto  a los transiistorios inductivos  mediante la realización de ejercicios para poder reforzar el conocimiento adquirido y ponerlo en práctica en la realización de circuitos eléctricos. 
+    Analizar los distintos temas de los capítulos 13 y 14 que nos permitirán identificar las diferentes funcionalidades que tiene la inductancia y los inductores junto  a los transiistorios inductivos  mediante la realización de ejercicios para poder reforzar el conocimiento adquirido y ponerlo en práctica en la realización de circuitos eléctricos. 
             
- - Objetivos Específicos   
-  - Determinar la inductancia equivalente de inductores conectados en paralelo.
-  - Determinar la inductancia equivalente de inductores en serie a partir de valores medidos.
-  - Analizar las características de una combinación de Inductores en serieen corriente alterna.
+    - Objetivos Específicos  
+    
+    - Determinar la inductancia equivalente de inductores conectados en paralelo.
+    - Determinar la inductancia equivalente de inductores en serie a partir de valores medidos.
+    - Analizar las características de una combinación de Inductores en serieen corriente alterna.
      
      
 # 2. Marco Teórico
