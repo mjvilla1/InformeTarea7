@@ -99,6 +99,7 @@ en que el interruptor se cierra es 80 V, la corriente final de estado estable es
 
 # 4. Video
 
+https://youtu.be/a06KevPz2q0
 
 # 5. Conclusiones
 
