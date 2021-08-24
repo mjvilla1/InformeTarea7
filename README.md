@@ -8,12 +8,14 @@ Integrantes:César Garnica  -  Jonathan Insuasti -  Melany Villa
 Analizar los distintos temas de los capítulos 13 y 14 que nos permitirán identificar las diferentes funcionalidades que tiene la inductancia y los inductores junto  a los transiistorios inductivos  mediante la realización de ejercicios para poder reforzar el conocimiento adquirido y ponerlo en práctica en la realización de circuitos eléctricos. 
             
  - Objetivos Específicos   
-  
+  - Determinar la inductancia equialente deinductores conectados en paralelo.
+  - Determinar la inductancia equialente deinductores en serie a partir de valores medidos.
+  - Analizar las características de una combinación de Inductores en serieen corriente alterna.
      
      
 # 2. Marco Teórico
 
-
+![](https://github.com/mjvilla1/ImagenesInforme7/blob/main/Inductores.png)
 
 # 3. Explicación y Resolución
 
@@ -82,7 +84,13 @@ serie?
 
 # 5. Conclusiones
 
--
+- La ley de corrientes de Kirchoff, fue la que nos ayudó y también se divisor de voltaje y divisor de corriente
+para evitar hacer algunas mediciones.
+- Se concluyó que la inductancia total de los inductores conectados en serie es siempre masgrande que el inductor mayor 
+en esa serie.
+- Se confirmó la valides de las Leyes de OHM en un circuito de corriente alterna en serie, haciendo que esta se pueda aplicar
+ a este tipo de circuitos.
+
 # 6.Bibliografia 
 
 Robbins, A. H. (2008). Análisis de Circuitos Teoria y Practica. Santa Fe-Mexico: Cengage Learning.
