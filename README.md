@@ -33,6 +33,11 @@ c. ¿Cuál es la corriente en t  10 s?
 ![](https://github.com/mjvilla1/ImagenesInforme7/blob/main/Ejercicio%2013.15.1.PNG)
 ![](https://github.com/mjvilla1/ImagenesInforme7/blob/main/Ejercicio%2013.15.2.PNG)
 
+17. ¿Cuál es la inductancia equivalente de 12, 14, 22, y 36 mH conectados en
+serie?
+
+![](https://github.com/mjvilla1/ImagenesInforme7/blob/main/Ejercicio%2013.17.PNG)
+
 # 4. Video
 
 
