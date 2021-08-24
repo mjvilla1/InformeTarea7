@@ -15,6 +15,8 @@ Analizar los distintos temas de los capítulos 13 y 14 que nos permitirán ident
      
 # 2. Marco Teórico
 
+![](https://github.com/mjvilla1/ImagenesInforme7/blob/main/Inductancia.PNG)
+
 ![](https://github.com/mjvilla1/ImagenesInforme7/blob/main/Inductores.png)
 
 # 3. Explicación y Resolución
