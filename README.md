@@ -94,7 +94,7 @@ Se parece a un circuito abierto
 
 b.Para cada circuito de la figura 14-37, determine iS y vL inmediatamente después de que el interruptor se cierra.
 
-![]( https://github.com/mjvilla1/ImagenesInforme7 )
+![](https://github.com/mjvilla1/ImagenesInforme7/blob/main/Ejercicio%2014.1.PNG)
 
 11. Para el circuito de la figura 14-1(b), el voltaje en la inductancia en el instante
 en que el interruptor se cierra es 80 V, la corriente final de estado estable es
