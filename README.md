@@ -96,6 +96,10 @@ b.Para cada circuito de la figura 14-37, determine iS y vL inmediatamente despu√
 
 ![](https://github.com/mjvilla1/ImagenesInforme7/blob/main/Ejercicio%2014.1.PNG)
 
+3.-Repita el problema 2 si L1 se reemplaza con un capacitor descargado.
+
+![](https://github.com/mjvilla1/ImagenesInforme7/blob/main/Ejercicio%2014.3.PNG)
+
 11. Para el circuito de la figura 14-1(b), el voltaje en la inductancia en el instante
 en que el interruptor se cierra es 80 V, la corriente final de estado estable es
 4 A, y el transitorio dura 0.5 s. Determine E, R y L.
